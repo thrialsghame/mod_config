@@ -20,12 +20,12 @@ CE LITE 242
 CE VIP 243
 
 
-1.213.48
-TE VIP-E 192
+1.214.80
+TE VIP-E 195
 
-TE LITE 191
+TE LITE 194
 TE VIP 195
 
-OnMessageAll = Welcome to TG Gaming!
+MessageAll = Welcome to TG Gaming!
 OnMessageCE = Welcome to FV2 Country Escape!
-OnMessageTE = Welcome to FV2 Tropic Escape!
+MessageTE = Welcome to FV2 Tropic Escape!
