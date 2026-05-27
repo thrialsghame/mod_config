@@ -26,6 +26,6 @@ TE VIP-E 192
 TE LITE 191
 TE VIP 192
 
-OnMessage = Welcome to TG Gaming!
+OnMessageAll = Welcome to TG Gaming!
 OnMessageCE = Welcome to FV2 Country Escape!
 OnMessageTE = Welcome to FV2 Tropic Escape!
