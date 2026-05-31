@@ -12,10 +12,12 @@ CE VIP 241
 
 30.0.185
 CE LITE-E 242
+CE LITE-E 242.1
 CE VIP-E 243
 
 CE BETA 243
 CE LITE 242
+CE LITE 242.1
 CE VIP 243
 
 
@@ -27,5 +29,5 @@ TE VIP 195
 TE VIP 201
 
 MessageAll = Welcome to TG Gaming!
-OnMessageCE = Welcome to FV2 Country Escape!
+OnMessageCE = Hello Lite users, let me know if this mod does not crash. Give feedback in discord chat...
 MessageTE = Hello VIP users, newer version of VIP is available in your discord. Your current VIP195 will soon be disabled. Download the newest one! Thanks!
