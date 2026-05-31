@@ -28,9 +28,8 @@ CE VIP 245
 TE VIP-E 201
 
 TE LITE 194
-TE VIP 195
 TE VIP 201
 
 MessageAll = Welcome to TG Gaming!
-OnMessageCE = Hello Lite users, let me know if this mod does not crash. Give feedback in discord chat...
-MessageTE = Hello VIP users, newer version of VIP is available in your discord. Your current VIP195 will soon be disabled. Download the newest one! Thanks!
+MessageCE = Welcome to CE!
+MessageTE = Welcome to TE!
