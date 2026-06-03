@@ -33,5 +33,5 @@ TE VIP 201
 TE VIP 203
 
 MessageAll = Welcome to TG Gaming!
-MessageCE = Welcome to CE!
+OnMessageCE = Connection issue is somehow fixed. You may try to login now...
 MessageTE = Welcome to TE!
