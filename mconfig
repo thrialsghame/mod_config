@@ -27,6 +27,6 @@ TE LITE 194
 TE VIP 201
 TE VIP 203
 
-MessageAll = Welcome to TG Gaming!
+OnMessageAll = Greetings! This is a test message. Just ignore...
 MessageCE = Connection issue has been fixed. You may try to login now...
 MessageTE = Welcome to TE!
