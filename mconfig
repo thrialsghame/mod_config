@@ -36,5 +36,4 @@ TE VIP 201
 TE VIP 203
 
 MessageAll = Greetings! This is a test message. Just ignore...
-OnMessageCE = Greetings! Old mod version 30.0.185 will be disabled soon. Please update to new version. Ignore this message if you are already updated...
-MessageTE = Welcome to TE!
+OnMessageCE = Greetings! Old mod version 30.0.185 will be disabled soon. Please update to new version. Ignore this message if you are already updateod... (Saudações! A versão antiga do mod, 30.0.185, será desativada em breve. Por favor, atualize para a nova versão. Ignore esta mensagem se você já atualizou...)
