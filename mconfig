@@ -25,6 +25,7 @@ CE BETA 246
 CE LITE 244
 CE LITE 245
 CE VIP 246
+CE VIP 247
 
 
 1.214_80
@@ -37,5 +38,5 @@ TE LITE 204
 TE VIP 205
 
 MessageAll = Greetings! This is a test message. Just ignore...
-MessageCE = Greetings! Old mod version will be disabled soon. Please update to new version. Ignore this message if you are already updated...
+OnMessageCE = Greetings! Minerals can be made to millions again. This feature will be available in Beta and VIP next update via Prospector's Corner Mode 1...
 MessageTE = Welcome to TE!
