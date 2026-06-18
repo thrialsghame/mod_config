@@ -43,3 +43,11 @@ TE VIP 206
 MessageAll = Greetings! This is a test message. Just ignore...
 MessageCE = Greetings! Minerals can be made to millions again. This feature will be available in Beta and VIP next update via Prospector's Corner Mode 1...
 MessageTE = Welcome to TE!
+
+
+CCS 20
+CCSS 25
+FB 13
+FF 33
+
+OnMessageOG = Welcome to TG Other Games! Enjoy!
