@@ -28,6 +28,14 @@ CE LITE 245
 CE VIP 246
 CE VIP 248
 
+30.2.191
+CE LITE-E 249
+CE VIP-E 250
+
+CE BETA 250
+CE LITE 249
+CE VIP 250
+
 
 1.214_80
 TE VIP 201
@@ -47,7 +55,12 @@ MessageTE = Welcome to TE!
 
 CCS 21
 CCSS 26
+EM 42
 FB 13
 FF 33
+MD 36
+PP 8
+SF 18
+SS 6
 
 MessageOG = Welcome to TG Other Games! Enjoy!
