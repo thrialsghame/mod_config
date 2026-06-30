@@ -26,10 +26,6 @@ CE VIP 250
 CE VIP 251
 
 
-1.214_80
-TE VIP 201
-TE VIP 203
-
 1.216_92
 TE VIP 205
 TE VIP 206
@@ -48,12 +44,13 @@ MessageTE = Greetings! To VIP users who uses new update (vip 210), there is new 
 
 CCS 21
 CCSS 26
-EM 42
+EM 43
 FB 13
 FF 33
 MD 36
 PP 8
 SF 18
 SS 6
+TS 29
 
 MessageOG = Welcome to TG Other Games! Enjoy!
