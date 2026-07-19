@@ -24,6 +24,7 @@ CE BETA 256
 CE LITE 254
 CE VIP 256
 CE VIP 257
+CE VIP 258
 CE MA 19
 
 
@@ -48,8 +49,8 @@ MessageAll = Greetings! This is a test message. Just ignore...
 MessageCE = (S1) Notice: Good News! Facebook connection issue has been fixed. You can now connect your farms to Facebook...
 MessageTE = Greetings! To VIP users who uses new update (vip 210), there is new mod (vip 211) available to fix sync error. Ignore this message if you have no issue about sync error...
 
-ModifyFileCE
-ModifyFileTE
+OnModifyFileCE
+OnModifyFileTE
 
 
 CCS 21
