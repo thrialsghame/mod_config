@@ -3,18 +3,8 @@ TG SRC-E 20
 4.0
 TG SRC 21
 
-CE BETA 243
 CE VIP 243
-
-CE VIP 246
-
-30.2_191
-CE VIP-E 250
-CE VIP-E 253
-
-CE BETA 250
 CE VIP 250
-CE VIP 253
 
 30.4_192
 CE VIP-E 256
@@ -25,21 +15,16 @@ CE VIP 258
 CE MA 19
 
 30.5.194
-CE VIP-E 260
-CE VIP-E 261
-CE VIP-E 264
 CE LITE-E 259
+CE VIP-E 260
+CE VIP-E 264
 
 CE BETA 260
+CE BETA 264
 CE LITE 259
 CE VIP 260
-CE VIP 261
 CE VIP 264
 
-
-1.214_80
-TE VIP 201
-TE VIP 203
 
 1.216_92
 TE VIP 205
@@ -55,9 +40,9 @@ TE VIP 212
 TE VIP 220
 TE VIP 223
 
-MessageAll = Greetings! This is a test message. Just ignore...
-MessageCE = Previous mod versions will be disabled soon, please update to the latest version 30.5.194. Ignore this message if you are already updated...
-MessageTE = Greetings! To VIP users who uses new update (vip 210), there is new mod (vip 211) available to fix sync error. Ignore this message if you have no issue about sync error...
+MessageAll = Greetings!
+MessageCE = Greetings!
+MessageTE = Greetings!
 
 ModifyFileCE
 ModifyFileTE
