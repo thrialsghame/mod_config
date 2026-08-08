@@ -48,7 +48,7 @@ MessageAll = Tip: To save space, always delete the older versions of mod you hav
 MessageCE = Greetings!
 MessageTE = Greetings!
 
-OnModifyFileCE
+ModifyFileCE
 ModifyFileTE
 
 CCS 22
