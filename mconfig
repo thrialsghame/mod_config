@@ -33,6 +33,7 @@ CE VIP 265
 CE VIP 266
 CE VIP 267
 CE VIP 268
+CE VIP 270
 
 1.217_117
 TE VIP 210
@@ -47,6 +48,7 @@ TE VIP 225
 TE VIP 226
 TE VIP 228
 TE VIP 230
+TE VIP 232
 
 MessageAll = Tip: To save space, always delete the older versions of mod you have downloaded. You can view them through Files/Download or Internal Storage/Download... Happy Gaming!
 MessageCE = Greetings!
