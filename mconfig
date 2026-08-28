@@ -48,9 +48,9 @@ TE VIP 234
 TE LITE 239
 TE VIP 240
 
-MessageAll = Tip: To save space, always delete the older versions of mod you have downloaded. You can view them through Files/Download or Internal Storage/Download... Happy Gaming!
-MessageCE = Greetings!
-MessageTE = Greetings!
+MessageAll = Greetings!
+OnMessageCE = Greetings! All previous mod versions will be disabled soon. Please update to the latest version 30.6.195! Ignore this message if you are already updated...
+OnMessageTE = Greetings! All previous mod versions will be disabled soon. Please update to the latest version 1.225.148! Ignore this message if you are already updated...
 
 ModifyFileCE
 ModifyFileTE
