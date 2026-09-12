@@ -31,10 +31,10 @@ CE VIP 280 //
 
 1.225.148
 TE LITE 239
-TE LITE 244 //
+TE LITE 250 //
 TE VIP 240
 TE VIP 242
-TE VIP 246 //
+TE VIP 251
 
 MessageAll = Tip: For better mod menu view, enable Auto size vertically under Settings (⚙)... Tap the gear icon to enter or exit Settings...
 MessageCE = Greetings! All previous mod versions will be disabled soon. Please update to the latest version 30.6.195! Ignore this message if you are already updated...
