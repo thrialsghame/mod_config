@@ -48,7 +48,7 @@ MessageAll = Tip: For better mod menu view, enable Auto size vertically under Se
 MessageCE = Greetings! All previous mod versions will be disabled soon. Please update to the latest version 30.6.195! Ignore this message if you are already updated...
 MessageTE = Greetings! All previous mod versions will be disabled soon. Please update to the latest version 1.225.148! Ignore this message if you are already updated...
 
-ModifyFileCE
+OnModifyFileCE
 ModifyFileTE
 
 CCS 22
