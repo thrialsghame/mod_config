@@ -47,7 +47,7 @@ MessageCE = Game version 30.7.196 does not allow you to sell new items if you do
 MessageTE = Greetings!
 
 ModifyFileCE
-OnModifyFileTE
+ModifyFileTE
 
 CCS 22
 CCSS 26
