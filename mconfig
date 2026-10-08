@@ -63,6 +63,7 @@ ModifyFileTE
 CCS 22
 CCSS 26
 EM 48
+EM 50
 FB 13
 FF 33
 MD 36
@@ -75,4 +76,4 @@ TS 34
 TS 35
 WM 11
 
-MessageOG = Welcome to TG Other Games! Enjoy!
+OnMessageOG = Welcome to TG Other Games! Enjoy!
