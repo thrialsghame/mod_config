@@ -34,7 +34,7 @@ MessageCE = Greetings!
 MessageTE = Greetings!
 
 ModifyFileCE
-OnModifyFileTE
+ModifyFileTE
 
 CCS 22
 CCSS 26
