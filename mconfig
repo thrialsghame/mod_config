@@ -29,7 +29,7 @@ TE VIP 282
 
 MessageAll = Tip: For better mod menu view, enable Auto size vertically under Settings (⚙)... Tap the gear icon to enter or exit Settings...
 
-OnMessageCE = I am aware that someone is repeatedly selling my VIP mod. Because of this, I will disable all VIP mods. Those loyal ones can contact me for a new one!
+MessageCE = I am aware that someone is repeatedly selling my VIP mod. Because of this, I will disable all VIP mods. Those loyal ones can contact me for a new one!
 
 MessageTE = Update to the latest version of mod, all previous mod will be disabled soon. Ignore if you are updated...
 
