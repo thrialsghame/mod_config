@@ -31,7 +31,7 @@ MessageCE = Update to the latest version of mod, all previous mod will be disabl
 
 MessageTE = Update to the latest version of mod, all previous mod will be disabled soon. Ignore if you are updated...
 
-OnModifyFileCE
+ModifyFileCE
 ModifyFileTE
 
 CCS 22
