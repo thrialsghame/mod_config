@@ -31,7 +31,7 @@ MessageCE = I am aware that someone is repeatedly selling my VIP mod. Because of
 
 MessageTE = Update to the latest version of mod, all previous mod will be disabled soon. Ignore if you are updated...
 
-OnModifyFileCE
+ModifyFileCE
 ModifyFileTE
 
 CCS 22
